@@ -4,7 +4,7 @@ A DIY holographic system using Raspberry Pi and the HiLetgo 2.4" SPI TFT ILI9341
 
 ## TFT
 First lets get the screen working
-
+![tft](https://raw.githubusercontent.com/cas1m1r/HoloPy/main/imgs/itworkTFT.jpg)
 
 ## Construction 
 Now we can build the prism for generating the hologram. Using this plastic and a hotglue gun. 
