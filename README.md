@@ -14,5 +14,6 @@ After its built we can test it works by using some videos already made on YouTub
 ![test](https://raw.githubusercontent.com/cas1m1r/HoloPy/main/imgs/prismTest.png)
 
 ## Creating Holograms 
-Center the prism on the display and start creating holograms!
+Center the prism on the display and start creating holograms! Right now I can only show single images at a time, and animation is kind of slow/distracting.
+
 ![sanchez](https://raw.githubusercontent.com/cas1m1r/HoloPy/main/imgs/holographic_sanchez.gif)
