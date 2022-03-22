@@ -15,4 +15,4 @@ After its built we can test it works by using some videos already made on YouTub
 
 ## Creating Holograms 
 Center the prism on the display and start creating holograms!
-![sphere](https://raw.githubusercontent.com/cas1m1r/HoloPy/main/imgs/holosphere.jpg)
+![sanchez](https://raw.githubusercontent.com/cas1m1r/HoloPy/main/imgs/holographic_sanchez.gif)
